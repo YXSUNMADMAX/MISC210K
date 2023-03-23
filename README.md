@@ -7,7 +7,7 @@
 - Our group reserves the right to terminate your access to the MISC210K dataset at any time.
 
 ## Link
-- BaiDu NetDisk: https://pan.baidu.com/s/1IOVpXddvzs2-7qTFD49rCQ (key：fe6w)
+- Baidu Netdisk: https://pan.baidu.com/s/1IOVpXddvzs2-7qTFD49rCQ (key：fe6w)
 - Google Cloud: Coming Soon~
 
 ## Cite
