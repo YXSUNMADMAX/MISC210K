@@ -7,7 +7,7 @@
 - Our group reserves the right to terminate your access to the MISC210K dataset at any time.
 
 ## Link
-Please mail to sunyixuan21@m.fudan.edu.cn & yiwenhuang21@m.fudan.edu.cn before access to this dataset with a **signed agreement**.
+Please mail to sunyixuan21@m.fudan.edu.cn & yiwenhuang21@m.fudan.edu.cn with a **signed agreement** before access to this dataset.
 
 - Baidu Netdisk: https://pan.baidu.com/s/1IOVpXddvzs2-7qTFD49rCQ (key：fe6w)
 - Google Cloud: Coming Soon~
