@@ -13,5 +13,13 @@ Please mail to sunyixuan21@m.fudan.edu.cn & yiwenhuang21@m.fudan.edu.cn with a *
 - Google Cloud: Coming Soon~
 
 ## Cite
-Coming soon~
+```
+@inproceedings{sun2023misc210k,
+  title={MISC210K: A Large-Scale Dataset for Multi-Instance Semantic Correspondence},
+  author={Sun, Yixuan and Huang, Yiwen and Guo, Haijing and Zhao, Yuzhou and Wu, Runmin and Yu, Yizhou and Ge, Weifeng and Zhang, Wenqiang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7121--7130},
+  year={2023}
+}
+```
 
